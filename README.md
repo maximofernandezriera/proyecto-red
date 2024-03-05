@@ -1,13 +1,16 @@
-# Proyecto Red
+# Proyecto Red (eléctrica)
 
 ## 01
  - Tenemos aparatos que se encienden y se apagan
  - Cada aparato tiene un consumo cuando esta encendido (apagado no
 consume nada)
 
+## 02
  - una red tiene un conjunto de aparatos enchufados
  - cada red puede proporcionar un máximo de energía
  - una red puede tener distintos sistemas de seguridad
+
+## 03 
  - Un sistema de seguridad, al activarse, ha de mirar si el consumo de la
 red es mayor al soportado.
  Si es así, ha de apagar los aparatos necesarios para volver a los
@@ -15,9 +18,13 @@ limites de seguridad.
  - Puede haber distintas implementaciones de sistemas de seguridad
 (que apaguen primero los mas potentes, que apaguen primero los
 menos potentes, etc...)
+
+## 04
  - El sistema no puede apagar aparatos críticos (un tipo especial de
 aparato). Estos solo se pueden apagar manualmente.
- - El sistema de seguridad tiene una alarma
+ - El sistema de seguridad tiene una alarma.
+
+# 05
  - Puede haber muchos tipos de alarma (que envían SMS, que hacen
 sonar un aparato, etc...). Todos funcionan igual: se activan y se
 desactivan.
