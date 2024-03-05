@@ -26,7 +26,7 @@ menos potentes, etc...)
 aparato). Estos solo se pueden apagar manualmente.
  - El sistema de seguridad tiene una alarma.
 
-# 05
+## 05
  - Puede haber muchos tipos de alarma (que envían SMS, que hacen
 sonar un aparato, etc...). Todos funcionan igual: se activan y se
 desactivan.
@@ -34,3 +34,7 @@ desactivan.
 nivel soportado, ha de activar el sistema de alarma.
  - El sistema de alarma no se alimenta de la red (no tiene un consumo,
 como los aparatos)
+
+## Tests unitarios
+
+En cada uno de los sprints crearemos una batería de tests unitarios suficiente para asegurar la calidad de las clases.
