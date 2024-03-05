@@ -1,8 +1,10 @@
 # Proyecto Red
 
+* 01
  - Tenemos aparatos que se encienden y se apagan
- - cada aparato tiene un consumo cuando esta encendido (apagado no
+ - Cada aparato tiene un consumo cuando esta encendido (apagado no
 consume nada)
+
  - una red tiene un conjunto de aparatos enchufados
  - cada red puede proporcionar un máximo de energía
  - una red puede tener distintos sistemas de seguridad
