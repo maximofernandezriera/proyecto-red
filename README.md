@@ -1,6 +1,6 @@
 # Proyecto Red
 
-* 01
+## 01
  - Tenemos aparatos que se encienden y se apagan
  - Cada aparato tiene un consumo cuando esta encendido (apagado no
 consume nada)
