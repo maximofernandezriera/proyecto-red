@@ -1,4 +1,4 @@
-# Proyecto de implementación de una red eléctrica
+# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos
 
 Iremos marcando cada uno de los sprints.
 
@@ -8,9 +8,9 @@ Iremos marcando cada uno de los sprints.
 consume nada)
 
 ## 02
- - una red tiene un conjunto de aparatos enchufados
- - cada red puede proporcionar un máximo de energía
- - una red puede tener distintos sistemas de seguridad
+ - Una red tiene un conjunto de aparatos enchufados
+ - Cada red puede proporcionar un máximo de energía
+ - Una red puede tener distintos sistemas de seguridad
 
 ## 03 
  - Un sistema de seguridad, al activarse, ha de mirar si el consumo de la
