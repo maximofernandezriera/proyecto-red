@@ -1,4 +1,6 @@
-# Proyecto Red (eléctrica)
+# Proyecto de implementación de una red eléctrica
+
+Iremos marcando cada uno de los sprints.
 
 ## 01
  - Tenemos aparatos que se encienden y se apagan
