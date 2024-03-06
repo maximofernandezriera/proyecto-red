@@ -1,13 +1,13 @@
-# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos
+# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos y "algo" de SCRUM
 
-Iremos marcando cada uno de los sprints.
+Iremos marcando cada uno de los sprints, cada sprint será un producto mínimo viable, entregable al cliente según SCRUM.
 
 ## 01
  - Tenemos aparatos que se encienden y se apagan
- - Cada aparato tiene un consumo cuando esta encendido (apagado no
-consume nada)
 
 ## 02
+ - Cada aparato tiene un consumo cuando esta encendido (apagado no
+consume nada)
  - Una red tiene un conjunto de aparatos enchufados
  - Cada red puede proporcionar un máximo de energía
  - Una red puede tener distintos sistemas de seguridad
