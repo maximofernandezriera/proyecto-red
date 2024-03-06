@@ -1,6 +1,6 @@
-# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos y "algo" de SCRUM
+# Proyecto de implementación de una red eléctrica utilizando el paradigma de la orientación a objetos con "algo" de TDD y SCRUM
 
-Iremos marcando cada uno de los sprints, cada sprint será un producto mínimo viable, entregable al cliente según SCRUM.
+Iremos marcando cada uno de los sprints, cada sprint será un producto mínimo viable, entregable al cliente según la metodología SCRUM.
 
 ## 01
  - Tenemos aparatos que se encienden y se apagan
