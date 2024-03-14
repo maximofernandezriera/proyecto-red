@@ -10,9 +10,9 @@ Iremos marcando cada uno de los sprints, cada sprint representa una historia de 
 consume nada)
  - Una red tiene un conjunto de aparatos enchufados
  - Cada red puede proporcionar un máximo de energía
- - Una red puede tener distintos sistemas de seguridad
 
-## 03 
+## 03
+ - Una red puede tener distintos sistemas de seguridad
  - Un sistema de seguridad, al activarse, ha de mirar si el consumo de la
 red es mayor al soportado.
  Si es así, ha de apagar los aparatos necesarios para volver a los
