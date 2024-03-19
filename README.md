@@ -17,11 +17,11 @@ consume nada)
 red es mayor al soportado.
  Si es así, ha de apagar los aparatos necesarios para volver a los
 limites de seguridad.
+
+## 04
  - Puede haber distintas implementaciones de sistemas de seguridad
 (que apaguen primero los mas potentes, que apaguen primero los
 menos potentes, etc...)
-
-## 04
  - El sistema no puede apagar aparatos críticos (un tipo especial de
 aparato). Estos solo se pueden apagar manualmente.
  - El sistema de seguridad tiene una alarma.
